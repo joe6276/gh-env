@@ -9,8 +9,8 @@ env:
 jobs:
   test:
     env:
-      MONGODB_PASSWORD: aEaI1C1WptDacvGv
-      MONGODB_USERNAME: jonathanndambuki16
+      MONGODB_PASSWORD: eV6UngahaRrYpkBc
+      MONGODB_USERNAME: admin
       MONGODB_CLUSTER_ADDRESS: '@cluster0.ehsjg35.mongodb.net'
       PORT: 8080
 
